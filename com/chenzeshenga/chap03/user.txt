@@ -1,1 +1,1 @@
-{'user1': {'password':'password1','salary':10000}}
+{'user1': {'password': 'password1', 'salary': 1690}}

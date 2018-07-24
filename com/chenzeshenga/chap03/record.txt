@@ -1,1 +1,1 @@
-{'user1': {'1': {'name': '电脑', 'number': 1, 'amount': 1999}}}
+{'user1': {'2': {'name': '鼠标', 'number': 2, 'amount': 20}, '3': {'name': '游艇', 'number': 1, 'amount': 20}}}
