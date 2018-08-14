@@ -32,3 +32,59 @@
 2018-08-14 00:59:00,078 - logics.py[line:39] - INFO: current credit is 15000, current balance is 1685.0
 2018-08-14 00:59:02,157 - logics.py[line:45] - INFO: user 1 repay 100.0
 2018-08-14 00:59:02,157 - logics.py[line:47] - INFO: current credit is 15000, current balance is 1785.0
+2018-08-14 22:03:52,927 - main.py[line:49] - INFO: user 1 loggin.
+2018-08-14 22:04:34,774 - main.py[line:49] - INFO: user 1 loggin.
+2018-08-14 22:04:46,189 - logics.py[line:13] - INFO: current credit is 15000, current balance is 1785.0
+2018-08-14 22:04:48,990 - logics.py[line:20] - INFO: user 1 withdraw 200.0
+2018-08-14 22:04:48,990 - logics.py[line:22] - INFO: current credit is 15000, current balance is 1575.0
+2018-08-14 22:05:07,472 - logics.py[line:40] - INFO: current credit is 15000, current balance is 1575.0
+2018-08-14 22:05:10,735 - logics.py[line:46] - INFO: user 1 repay 500.0
+2018-08-14 22:05:10,735 - logics.py[line:48] - INFO: current credit is 15000, current balance is 2075.0
+2018-08-14 22:19:35,972 - main.py[line:50] - INFO: user 1 loggin.
+2018-08-14 22:20:40,378 - main.py[line:50] - INFO: user 1 loggin.
+2018-08-14 22:22:02,530 - main.py[line:50] - INFO: user 1 loggin.
+2018-08-14 22:23:09,280 - main.py[line:50] - INFO: user 1 loggin.
+2018-08-14 22:24:06,533 - main.py[line:50] - INFO: user 1 loggin.
+2018-08-14 22:25:15,483 - main.py[line:50] - INFO: user 1 loggin.
+2018-08-14 22:26:23,165 - main.py[line:50] - INFO: user 1 loggin.
+2018-08-14 22:27:01,828 - main.py[line:50] - INFO: user 1 loggin.
+2018-08-14 22:28:14,677 - main.py[line:50] - INFO: user 1 loggin.
+2018-08-14 22:28:18,518 - logics.py[line:82] - INFO: user 1 transfer 200.0 to user 2
+2018-08-14 22:35:05,050 - main.py[line:50] - INFO: user 1 loggin.
+2018-08-14 22:37:56,786 - main.py[line:50] - INFO: user 1 loggin.
+2018-08-14 22:38:27,904 - main.py[line:50] - INFO: user 1 loggin.
+2018-08-14 22:39:57,355 - main.py[line:50] - INFO: user 1 loggin.
+2018-08-14 22:48:24,838 - main.py[line:50] - INFO: user 1 loggin.
+2018-08-14 22:48:33,190 - logics.py[line:130] - INFO: 1 buy {1: {'1': {'name': 'µçÄÔ', 'number': 1, 'amount': 1999.0}}} in the shopping mall
+2018-08-14 22:48:42,690 - logics.py[line:41] - INFO: current credit is 15000, current balance is 276.0
+2018-08-14 22:48:46,390 - logics.py[line:47] - INFO: user 1 repay 5000.0
+2018-08-14 22:48:46,390 - logics.py[line:49] - INFO: current credit is 15000, current balance is 5276.0
+2018-08-14 23:34:02,267 - main.py[line:50] - INFO: user 1 loggin.
+2018-08-14 23:34:06,286 - logics.py[line:14] - INFO: current credit is 15000, current balance is 5276.0
+2018-08-14 23:34:15,352 - logics.py[line:21] - INFO: user 1 withdraw 100.0
+2018-08-14 23:34:15,352 - logics.py[line:23] - INFO: current credit is 15000, current balance is 5171.0
+2018-08-14 23:34:32,318 - logics.py[line:41] - INFO: current credit is 15000, current balance is 5171.0
+2018-08-14 23:34:34,776 - logics.py[line:47] - INFO: user 1 repay 200.0
+2018-08-14 23:34:34,777 - logics.py[line:49] - INFO: current credit is 15000, current balance is 5371.0
+2018-08-14 23:34:46,939 - logics.py[line:83] - INFO: user 1 transfer 500.0 to user 2
+2018-08-14 23:35:36,152 - main.py[line:50] - INFO: user 1 loggin.
+2018-08-14 23:35:43,265 - logics.py[line:83] - INFO: user 1 transfer 200.0 to user 2
+2018-08-14 23:36:14,185 - main.py[line:50] - INFO: user 1 loggin.
+2018-08-14 23:36:22,556 - logics.py[line:83] - INFO: user 1 transfer 500.0 to user 2
+2018-08-14 23:36:34,383 - logics.py[line:131] - INFO: 1 buy {1: {'1': {'name': 'µçÄÔ', 'number': 1, 'amount': 1999.0}}} in the shopping mall
+2018-08-14 23:37:47,977 - main.py[line:50] - INFO: user 1 loggin.
+2018-08-14 23:39:27,557 - main.py[line:50] - INFO: user 1 loggin.
+2018-08-14 23:39:38,952 - logics.py[line:212] - INFO: user 1 adjust credit to 20000.0
+2018-08-14 23:39:48,853 - logics.py[line:224] - INFO: user 1 was locked by user 1
+2018-08-14 23:40:04,968 - main.py[line:50] - INFO: user 1 loggin.
+2018-08-14 23:43:26,999 - main.py[line:50] - INFO: user 1 loggin.
+2018-08-14 23:43:37,495 - logics.py[line:14] - INFO: current credit is 20000.0, current balance is 4572.0
+2018-08-14 23:43:39,623 - logics.py[line:21] - INFO: user 1 withdraw 200.0
+2018-08-14 23:43:39,623 - logics.py[line:23] - INFO: current credit is 20000.0, current balance is 4362.0
+2018-08-14 23:43:47,804 - logics.py[line:41] - INFO: current credit is 20000.0, current balance is 4362.0
+2018-08-14 23:43:50,321 - logics.py[line:47] - INFO: user 1 repay 500.0
+2018-08-14 23:43:50,321 - logics.py[line:49] - INFO: current credit is 20000.0, current balance is 4862.0
+2018-08-14 23:44:07,375 - logics.py[line:83] - INFO: user 1 transfer 200.0 to user 2
+2018-08-14 23:45:55,672 - main.py[line:50] - INFO: user 1 loggin.
+2018-08-14 23:48:02,431 - main.py[line:50] - INFO: user 1 loggin.
+2018-08-14 23:50:23,273 - main.py[line:50] - INFO: user 1 loggin.

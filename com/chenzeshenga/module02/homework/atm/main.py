@@ -7,7 +7,10 @@ atm_logger = logger()
 functions = [
     ('账户信息', logics.user_info),
     ('提现', logics.withdraw),
-    ('还款', logics.repay)
+    ('还款', logics.repay),
+    ('转账', logics.transfer),
+    ('商城', logics.shopping),
+    ('管理', logics.manager)
 ]
 
 
@@ -22,7 +25,7 @@ def controller(user):
         if choice.isdigit():
             choice = int(choice)
             if choice >= 0 and choice < len(functions):
-                functions[choice][1](user,atm_logger)
+                functions[choice][1](user, atm_logger)
         if choice == "exit":
             exit()
 

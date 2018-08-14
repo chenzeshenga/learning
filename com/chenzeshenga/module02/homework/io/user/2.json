@@ -1,10 +1,1 @@
-{
-  "balance": 2000,
-  "expire_date": "2022-02-22",
-  "enroll_date": "2018-08-13",
-  "credit": 15000,
-  "id": 2,
-  "status": 0,
-  "repay_day": 22,
-  "password": "password02"
-}
+{"balance": 400.0, "expire_date": "2022-02-22", "enroll_date": "2018-08-13", "credit": 15000, "id": 2, "status": 0, "repay_day": 22, "password": "password02"}
